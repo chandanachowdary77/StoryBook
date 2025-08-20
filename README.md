@@ -126,11 +126,11 @@ The development approach was guided by **reusability, scalability, and accessibi
 ---
 
 ## ✅ Requirements Met
-- [x] TypeScript with strong typing  
-- [x] TailwindCSS for responsive design  
-- [x] Accessibility support (ARIA, focus states)  
-- [x] Storybook stories for all props & states  
-- [x] Unit tests with Jest + React Testing Library  
-- [x] Clean, reusable component structure  
+- TypeScript with strong typing  
+- TailwindCSS for responsive design  
+- Accessibility support (ARIA, focus states)  
+- Storybook stories for all props & states  
+- Unit tests with Jest + React Testing Library  
+- Clean, reusable component structure  
 
 
